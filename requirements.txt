@@ -1,0 +1,14 @@
+faiss-cpu
+PyMuPDF
+python-docx
+markdown
+beautifulsoup4
+wordcloud
+sentence-transformers
+scikit-learn
+openai
+python-dotenv
+matplotlib
+seaborn
+numpy
+pandas

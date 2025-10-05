@@ -1,0 +1,23 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# notebooks
+.ipynb_checkpoints/
+*.ipynb_convert/
+
+# data & outputs
+data/
+outputs/
+!data/.gitkeep
+!outputs/.gitkeep
+
+# environment & secrets
+.env
+config/.env
+*.env
+
+# OS/editor
+.DS_Store
+*.swp
