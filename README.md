@@ -1,4 +1,4 @@
-# Asistente RAG para RRHH — BCN Tech Solutions
+# Asistente RAG para RRHH
 
 ![IA aplicada a RRHH](images/ia_rrhh.png)
 
@@ -6,14 +6,14 @@
 ## Introducción
 En un entorno empresarial donde la información crece exponencialmente, los departamentos de **RRHH** necesitan herramientas inteligentes capaces de **transformar datos dispersos** en **conocimiento accionable**. Este proyecto demuestra cómo la **inteligencia artificial** puede convertirse en un **copiloto corporativo**, optimizando la gestión documental y mejorando la toma de decisiones.
 
+Este trabajo forma parte del **Trabajo Final de Máster en Data Science con IA de BIG school**.
+
 ## Objetivo del proyecto
 Construir un **sistema RAG (Retrieval-Augmented Generation)** capaz de:
 - **Consultar**
 - **Analizar**
 - **Generar respuestas**
 A partir de documentos reales del área de **Recursos Humanos (RRHH)** dentro de una empresa simulada llamada **BCN Tech Solutions**.
-
-Este trabajo forma parte del **Trabajo Final de Máster en Data Science con IA de BIG school**.
 
 ## Acceso al Notebook completo
 
